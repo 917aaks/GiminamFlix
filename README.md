@@ -1,1 +1,12 @@
 # GiminamFlix
+<head>
+    <!-- Código omitido -->
+
+    <title>Guiminamflix</title>
+</head>
+
+<body>
+    <header>GUIMINAMFLIX</header>
+
+    <!-- Código omitido -->
+</body>
